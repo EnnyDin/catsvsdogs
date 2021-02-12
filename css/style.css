@@ -1,0 +1,24 @@
+.img {
+    float: right;
+}
+.cats {
+    float: right;
+  
+}
+.sidebar {
+    width: 50%;
+    float: left;
+  }
+ @media screen and (min-width: 480px) {
+     body {
+         text-transform: unset;
+     }
+ }
+  h1 {
+      text-align: center;
+      background-origin: padding-box;
+      border-color:cornflowerblue;
+      border-width: 6px;
+      border-style:double
+  }
+  
